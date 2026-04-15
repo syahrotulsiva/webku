@@ -63,7 +63,7 @@ body{
     padding-right:2pc;
 }
 
-.kiri
+.kiri{
     width:70%;
     float:left;
     margin:auto;
@@ -71,7 +71,7 @@ body{
     height:420px;
 }
 
-.kanan
+.kanan{
     width:30%;
     float:left;
     margin:auto;
@@ -93,22 +93,3 @@ body{
     color:#fff;
     margin-bottom: 1pc;
 }
-
-body{
-    background-color:#f3f3f3;
-    color:#333; 
-    width:100%;
-    font-family:sans-serif;
-    margin:0 auto;
-}
-
-.header{
-    width:90%;
-    margin:auto;
-    height:120px;
-    line-height:120px;
-    background:#417aa8;
-    color:#fff;
-}
-
-
